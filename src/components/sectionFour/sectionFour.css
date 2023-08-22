@@ -1,0 +1,14 @@
+.color {
+    color: #1E47FF;
+}
+
+.font-style {
+    color: #16133E;
+
+/* Post Title */
+font-family: Merriweather;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px; /* 150% */
+}
